@@ -1,0 +1,14 @@
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+E:\Fabio\Documentos\C# FreeCodeCamp\2. simple_console_applications\3. guided project\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
