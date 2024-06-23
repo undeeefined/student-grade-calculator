@@ -1,4 +1,4 @@
-﻿// initialize variables - graded assignments
+﻿//student-grade-calculator
 int examAssignments = 5;
 
 int[] sophiaScores = new int[] { 90, 86, 87, 98, 100, 94, 90 };
